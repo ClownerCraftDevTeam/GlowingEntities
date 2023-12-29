@@ -945,6 +945,20 @@ public class GlowingEntities implements Listener {
 					null,
 					null,
 					null,
+					null),
+			V1_20_4(
+					20,
+					4,
+					"ao",
+					"ac",
+					"an",
+					null,
+					null,
+					null,
+					null,
+					null,
+					null,
+					null,
 					null)
 					;
 
